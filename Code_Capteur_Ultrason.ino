@@ -48,7 +48,7 @@ void loop() {
       Serial.println(" cm");
     }
 
-    delay(50); // Petit délai pour éviter les interférences entre les capteurs
+    delay(50); 
   }
 
   Serial.println("----------------------------"); 
